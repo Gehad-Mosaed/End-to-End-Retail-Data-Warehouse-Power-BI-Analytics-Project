@@ -22,23 +22,29 @@ The dashboard provides insights into:
 
 ---
 
-## Dashboard Pages
+# Retail Data Warehouse Dashboard
 
-### Executive Overview
+## Executive Overview
 
-![Executive Overview](Executive%20Overview%20page.png)
+![Executive Overview](Executive-Overview-page.png)
 
-### Product Analysis
+---
 
-![Product Analysis](Product%20Analysis%20page.png)
+## Product Analysis
 
-### Customer Analysis
+![Product Analysis](Product-Analysis-page.png)
 
-![Customer Analysis](Customer%20Analysis%20page.png)
+---
 
-### Returns & Profitability
+## Customer Analysis
 
-![Returns & Profitability](Return%20and%20Profitability%20page.png)
+![Customer Analysis](Customer-Analysis-page.png)
+
+---
+
+## Returns & Profitability
+
+![Returns & Profitability](Return-and-Profitability-page.png)
 
 ---
 
