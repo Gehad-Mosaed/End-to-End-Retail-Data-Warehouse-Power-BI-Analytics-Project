@@ -26,7 +26,7 @@ The dashboard provides insights into:
 
 ## Executive Overview
 
-<img src="Executive-Overview-page.png" width="1000">
+<img src="Excutive-Overview-page.png" width="1000">
 
 ## Product Analysis
 
