@@ -26,26 +26,19 @@ The dashboard provides insights into:
 
 ## Executive Overview
 
-![Executive Overview](Executive-Overview-page.png)
-
----
+<img src="Executive-Overview-page.png" width="1000">
 
 ## Product Analysis
 
-![Product Analysis](Product-Analysis-page.png)
-
----
+<img src="Product-Analysis-page.png" width="1000">
 
 ## Customer Analysis
 
-![Customer Analysis](Customer-Analysis-page.png)
-
----
+<img src="Customer-Analysis-page.png" width="1000">
 
 ## Returns & Profitability
 
-![Returns & Profitability](Return-and-Profitability-page.png)
-
+<img src="Return-and-Profitability-page.png" width="1000">
 ---
 
 ## Key KPIs
