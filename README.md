@@ -76,7 +76,7 @@ The warehouse follows a Star Schema architecture:
 
 ### Executive Overview
 
-![Executive Overview](images/Executive-Overview-page.png)
+![Executive Overview](images/Excutive-Overview-page.png)
 
 Key KPIs:
 
