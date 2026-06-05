@@ -178,7 +178,7 @@ Insights:
 
 ## 👤 Author
 
-**Gehad Khairy**
+**Gehad Khairy Mosaed**
 
 Computer Science & Artificial Intelligence Student
 
